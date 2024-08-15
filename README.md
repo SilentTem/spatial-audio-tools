@@ -3,6 +3,9 @@
 - OS: Windows (can be ran under Wine on macOS & Linux)
 - Dolby Reference Player and [FFmpeg binaries](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip) in `PATH` environment variable
 
+# Supported Formats
+- Dolby Atmos (`.m4a`, `.mp4`, `.ec3`)
+
 # Usage
 1. Copy the files `spatial_audio_tools.ini`, `spatial_audio_tools.py`, and `start.bat` to a folder.
 2. Copy any supported spatial audio formats into the same folder.
