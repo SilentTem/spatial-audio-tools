@@ -6,7 +6,7 @@
 ## Supported Formats
 - Dolby Atmos (`.m4a`, `.mp4`, `.ec3`)
 
-## Usage
+## Installation
 1. Copy the files `spatial_audio_tools.ini`, `spatial_audio_tools.py`, and `start.bat` to a folder.
 2. Copy any supported spatial audio format files into the same folder.
 3. Make any desired configuration changes in the `ini` file and then execute `start.bat` and follow through the printed instructions.
